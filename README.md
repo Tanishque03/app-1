@@ -14,7 +14,7 @@ Dialogue X is a full stack chat application built using React, Node.js, and Mong
 
 **Getting Started**
 
-1. Clone the repository using `git clone https://github.com/your-username/dialogue-x.git`
+1. Clone the repository using `https://github.com/Tanishque03/app-1.git`
 2. Install the dependencies using `npm install` or `yarn install`
 3. Start the development server using `npm start` or `yarn start`
 4. Open the application in your web browser at `http://localhost:5173`
